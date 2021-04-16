@@ -1,0 +1,12 @@
+{
+	"name": "Better Unreal Archives",
+	"description": "Improves user experience on unrealarchive.org",
+	"version": "1.0",
+	"manifest_version": 3,
+	"content_scripts": [
+		{
+			"matches": ["https://unrealarchive.org/*"],
+			"js": ["content.js"]
+		}
+	]
+}
