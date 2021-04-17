@@ -6,3 +6,4 @@ Features:
 
 -   See images directly when browsing the table
 -   Takes more horizontal space
+-   Displays previous and next buttons on each side of the viewport respectively
